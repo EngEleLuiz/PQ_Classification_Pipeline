@@ -134,9 +134,6 @@ python src/simulator.py
     ```
    In the Database: You can use a tool like DB Browser for SQLite to open the `db/pq_events.db` file and see the new records being added to the `classifications` table.
 
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ```
 ```
