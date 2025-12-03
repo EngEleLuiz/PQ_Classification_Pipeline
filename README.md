@@ -1,6 +1,8 @@
-```markdown
 # ⚡ Real-Time Power Quality (PQ) Classification Pipeline
-
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+```markdown
 This project implements a real-time, event-driven pipeline to monitor, process, and classify power quality (PQ) disturbances from waveform data.
 
 It uses the `watchdog` library to monitor a directory for new signal files (e.g., from a simulation or data logger), applies a Discrete Wavelet Transform (DWT) for feature extraction, and uses a pre-trained `scikit-learn` model to classify events like Sag, Swell, Harmonics, and Normal. All classification results are logged in real-time to an SQLite database.
@@ -137,3 +139,6 @@ python src/simulator.py
 
 ```
 ```
+## 👨‍💻 Author
+
+**[Luiz Rosa]** *Power Systems Engineer | Python Developer* [[LinkedIn](https://www.linkedin.com/in/luiz-gustavo-rosa-12407536b/)]
