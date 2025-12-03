@@ -79,7 +79,7 @@ PQ\_Classification\_Pipeline/
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YourUsername/PQ_Classification_Pipeline.git](https://github.com/YourUsername/PQ_Classification_Pipeline.git)
+    git clone [[https://github.com/YourUsername/PQ_Classification_Pipeline.git](https://github.com/EngEleLuiz/PQ_Classification_Pipeline)]
     cd PQ_Classification_Pipeline
     ```
 
